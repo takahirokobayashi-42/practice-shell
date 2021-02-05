@@ -1,0 +1,5 @@
+Credentials cache: API:02CC2828-371B-4C3B-AC9C-18B9B74707D8
+        Principal: takobaya@42TOKYO.JP
+
+  Issued                Expires               Principal
+Sep  8 18:05:32 2020  Sep  9 04:05:32 2020  krbtgt/42TOKYO.JP@42TOKYO.JP
